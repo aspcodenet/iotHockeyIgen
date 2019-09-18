@@ -5,6 +5,7 @@ class Player:
     JerseyNumber = 0
     Goals = 0
     Assists = 0
+    ShoeSize = 0
 
 def CreatePlayer():
     print("*** New player ***")
